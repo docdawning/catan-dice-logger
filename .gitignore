@@ -1,1 +1,4 @@
 *.class
+/.metadata/
+/.recommenders/
+/build/
